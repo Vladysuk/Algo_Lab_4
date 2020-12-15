@@ -1,5 +1,5 @@
 import unittest
-from dynamic_approach import count_min_slices, count_number_powers
+from dynamic_approach import count_min_slices
 
 
 class MyTestCase(unittest.TestCase):

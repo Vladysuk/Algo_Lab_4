@@ -1,4 +1,4 @@
-from dynamic_approach import count_min_slices, count_number_powers, binary_to_int
+from dynamic_approach import count_min_slices
 
 if __name__ == "__main__":
     with open('fantz.in', 'r+') as fileIn:
